@@ -6,4 +6,4 @@
 
 JavaScript is a 6 week course within the FESD Coding Bootcamp
 
-Week 4 Assignments:  Research & LinkedIn Profile update
+Week 4 Assignments:  Research & LinkedIn Posts
