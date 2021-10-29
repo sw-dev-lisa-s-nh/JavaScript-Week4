@@ -2,7 +2,7 @@
 
 ## Promineo Tech FrontEnd Software Development Coding Bootcamp 
 ## Week 4 of 6 
-## Date:  10/26/21 (Assignments due:  10/30/21) 
+## Date:  11/2/21 (Assignments due:  11/6/21) 
 
 JavaScript is a 6 week course within the FESD Coding Bootcamp
 
